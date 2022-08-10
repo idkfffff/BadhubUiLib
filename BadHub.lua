@@ -1103,7 +1103,7 @@
 
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/idkfffff/Ui-Lib/main/uilib.Lua"))()
+local Main = loadstring(game:HttpGet("https://raw.githubusercontent.com/idkfffff/Ui-Lib/main/uilib.Lua"))()
 
 
 
